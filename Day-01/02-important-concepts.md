@@ -8,6 +8,10 @@ Virtualization is the process of creating a virtual version of something, such a
 
 A Virtual Machine (VM) is a software-based emulation of a physical computer. It allows running multiple operating systems on a single physical machine.
 
+## Hypervisor
+
+The hypervisor can be used to run multiple virtual machines (VMs), sharing resources from the same physical server, such as CPU, network interfaces and RAM.
+
 ## API (Application Programming Interface)
 
 API is a set of rules and protocols that allows different software applications to communicate with each other. It defines how software components should interact.
