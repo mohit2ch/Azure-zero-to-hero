@@ -30,7 +30,7 @@ Scalability is the ability of a system to handle an increasing amount of work or
 
 ## Elasticity
 
-Elasticity in cloud computing refers to the ability to dynamically scale resources up or down based on demand.
+Elasticity (or auto scaling) in cloud computing refers to the ability to dynamically scale resources up or down based on demand. Hotstar should be able to accomodate any number of live viewers without going down.
 
 ## Agility
 
@@ -46,7 +46,7 @@ Fault Tolerance is the ability of a system to continue operating without interru
 
 ## Disaster Recovery
 
-Disaster Recovery involves the planning and processes for restoring and recovering data and systems after a natural or human-induced disaster.
+Disaster Recovery involves the planning and processes for restoring and recovering data and systems after a natural or human-induced disaster (eg. Backup).
 
 ## Load Balancing
 
